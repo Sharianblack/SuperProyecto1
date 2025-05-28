@@ -9,7 +9,7 @@
 
 <h1>Login de usuario</h1>
 <div>
-    <form action="/webapp_cookies_matu/login" method="post">
+    <form action="/SuperProyecto1/login" method="post">
         <div>
             <lable for="username">Nombre de usuarios:</lable>
             <div>
